@@ -15,7 +15,7 @@ This file is used to connect this repository to the **PRG** project categorizati
 **Repository Tier:** Bronze <br>
 **Technology:** AppleScript, Mac <br>
 **Category:** Console Application <br>
-**Order:** 51 <br>
+**Order:** 52 <br>
 
 ## Parameters
 
